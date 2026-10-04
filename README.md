@@ -3,8 +3,8 @@
 <html>
 <body>
 
-<a href="<https://www.hs.ac.kr/kor/index.do>">
-  <button>눌러보세요!</button>
+<a href="https://www.hs.ac.kr/kor/index.do">
+  <button>한신대학교 홈페이지로 이동</button>
 </a>
 
 </body>
