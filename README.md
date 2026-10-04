@@ -4,7 +4,7 @@
 <body>
 
 <a href="<https://www.hs.ac.kr/kor/index.do>">
-  <button>한신대홈페이지</button>
+  <button>눌러보세요!</button>
 </a>
 
 </body>
